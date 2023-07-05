@@ -1,2 +1,2 @@
-My first readme
-A new commited change doen locally
+My first readme.
+A new change done locally.
